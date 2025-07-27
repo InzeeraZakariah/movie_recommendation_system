@@ -23,4 +23,8 @@ This project is a **content-based movie recommendation engine** that uses [Sente
 - 🗃️ MySQL — database storage for movies and embeddings
 
 ---
+Created by Inzeera Z
+Pre-final year B.Tech | Artificial Intelligence & Data Science
+📬 LinkedIn • 🐙 GitHub
 
+If you found this useful or are working on similar challenges, feel free to connect!
