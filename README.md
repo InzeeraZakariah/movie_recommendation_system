@@ -25,6 +25,8 @@ This project is a **content-based movie recommendation engine** that uses [Sente
 ---
 Created by Inzeera Z
 Pre-final year B.Tech | Artificial Intelligence & Data Science
-📬 LinkedIn • 🐙 GitHub
+ [LinkedIn](https://www.linkedin.com/in/inzeera-z-32741330a/) • 
+ [GitHub](https://github.com/InzeeraZakariah)
+
 
 If you found this useful or are working on similar challenges, feel free to connect!
